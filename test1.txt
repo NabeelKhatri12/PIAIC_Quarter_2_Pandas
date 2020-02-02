@@ -1,0 +1,5 @@
+Id Name Dept. Age 
+1 Nabeel CS 20
+2 Raheel CS 21
+3 Mamu IT 25
+4 Salman CS 15 
